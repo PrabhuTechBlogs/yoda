@@ -12,7 +12,7 @@
     "firebase-functions": "^2.0.2",
     "dialogflow": "^0.6.0",
     "dialogflow-fulfillment": "^0.5.0",
-    "googleapis": "22.2.0"
+    "googleapis": "59.0.0"
   },
   "author": "Prabhu",
   "license": "ISC"
